@@ -14,7 +14,7 @@ NIA    | User name | Repo | Improvement | Score
 535621 | FRÍAS ZAPATER, MARTA ALMUDENA
 680669 | GUIU PÉREZ, ALEJANDRO
 682531 | JUAN CIRIACO, ÁLVARO
-544393 | LAHOZ EGEA, CRISTINA
+544393 | LAHOZ EGEA, CRISTINA | [test repo](https://github.com/cristinalahoz/lab5-soa/tree/test) | |
 622612 | MARTIN SEGURA, SERGIO  
 681061 | MARTÍNEZ MENÉNDEZ, ALBERTO | [test repo](https://github.com/Belberus/lab5-soa/tree/test) | |
 576307 | MARTÍNEZ PÉREZ, ADRIAN 
