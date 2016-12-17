@@ -20,7 +20,7 @@ NIA    | User name | Repo | Improvement | Score
 576307 | MARTÍNEZ PÉREZ, ADRIAN 
 540891 | MENENDEZ MOYA, FRANCISCO 
 680882 | MORENO JIMENO, RUBÉN | [test repo](https://github.com/nebur395/lab5-soa/tree/test) | Improve functionality of search with lang parameter and change GUI forms |
-750849 | MOSQUERA ZAPATA, LUIS EDUARDO 
+750849 | MOSQUERA ZAPATA, LUIS EDUARDO | [Test Repo](https://github.com/luisemz/lab5-soa/tree/test)
 650448 | MURILLO MAGDALENA, JAVIER | [test repo](https://github.com/javmurillo/lab5-soa/tree/test) | Max command and tweet functionality
 453948 | NAVARRO CLARAS, MARIO 
 647973 | PERALTA MARTÍNEZ, SANTIAGO 
