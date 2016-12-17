@@ -16,8 +16,8 @@ NIA    | User name | Repo | Improvement | Score
 682531 | JUAN CIRIACO, ÁLVARO
 544393 | LAHOZ EGEA, CRISTINA | [test repo](https://github.com/cristinalahoz/lab5-soa/tree/test) | |
 622612 | MARTIN SEGURA, SERGIO  
-681061 | MARTÍNEZ MENÉNDEZ, ALBERTO | [test repo](https://github.com/Belberus/lab5-soa/tree/test) | |
-576307 | MARTÍNEZ PÉREZ, ADRIAN 
+681061 | MARTÍNEZ MENÉNDEZ, ALBERTO | [test repo](https://github.com/Belberus/lab5-soa/tree/test) 
+576307 | MARTÍNEZ PÉREZ, ADRIAN | [test repo](https://github.com/Electryk/lab5-soa/tree/test) 
 540891 | MENENDEZ MOYA, FRANCISCO 
 680882 | MORENO JIMENO, RUBÉN | [test repo](https://github.com/nebur395/lab5-soa/tree/test) | Improve functionality of search with lang parameter and change GUI forms |
 750849 | MOSQUERA ZAPATA, LUIS EDUARDO | [Test Repo](https://github.com/luisemz/lab5-soa/tree/test)
