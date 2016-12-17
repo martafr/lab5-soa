@@ -23,7 +23,7 @@ NIA    | User name | Repo | Improvement | Score
 750849 | MOSQUERA ZAPATA, LUIS EDUARDO | [Test Repo](https://github.com/luisemz/lab5-soa/tree/test)
 650448 | MURILLO MAGDALENA, JAVIER | [test repo](https://github.com/javmurillo/lab5-soa/tree/test) | Max command and tweet functionality
 453948 | NAVARRO CLARAS, MARIO 
-647973 | PERALTA MARTÍNEZ, SANTIAGO 
+647973 | PERALTA MARTÍNEZ, SANTIAGO | [test](https://github.com/SantiagoPeralta/lab5-soa/tree/test) |
 683546 | PÉREZ CANCER, BEATRIZ | [test repo](https://github.com/beapc18/lab5-soa/tree/test)
 686329 | ROIG JIMENEZ, ANA | [test repo](https://github.com/anicacortes/lab5-soa/tree/test)
 559207 | RUEDA MACÍAS, DANIEL | [test branch](https://github.com/danirueda/lab5-soa/tree/test) |
