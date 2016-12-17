@@ -5,7 +5,7 @@ NIA    | User name | Repo | Improvement | Score
 -------|-----------|------|-------------|--------
 647002 | AGUILAR REQUENA, EDUARDO
 666156 | BAREA LÓPEZ, DANIEL
-666179 | BARRIOS GIL, ÁLVARO
+666179 | BARRIOS GIL, ÁLVARO | [test repo] (https://github.com/deerter/lab5-soa/tree/test)
 612595 | BELTRÁN PIÑOL, VÍCTOR | [test repo](https://github.com/Victorbp09/lab5-soa/tree/test)
 683326 | BINTANED BASA, JESÚS | [test](https://github.com/jebiba95/lab5-soa/tree/test)
 649003 | CAUDEVILLA CASAUS, JOSE ÁNGEL
