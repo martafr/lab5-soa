@@ -12,7 +12,7 @@ NIA    | User name | Repo | Improvement | Score
 750846 | DAVID MOLINA, JOHN ALEXIS
 529361 | DUMITRACHE , CATALIN  CONSTANTIN 
 535621 | FRÍAS ZAPATER, MARTA ALMUDENA
-680669 | GUIU PÉREZ, ALEJANDRO
+680669 | GUIU PÉREZ, ALEJANDRO | [test repo](https://github.com/aguiu/lab5-soa/tree/test)
 682531 | JUAN CIRIACO, ÁLVARO
 544393 | LAHOZ EGEA, CRISTINA | [test repo](https://github.com/cristinalahoz/lab5-soa/tree/test) | |
 622612 | MARTIN SEGURA, SERGIO  
