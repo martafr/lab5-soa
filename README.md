@@ -13,7 +13,7 @@ NIA    | User name | Repo | Improvement | Score
 529361 | DUMITRACHE , CATALIN  CONSTANTIN 
 535621 | FRÍAS ZAPATER, MARTA ALMUDENA
 680669 | GUIU PÉREZ, ALEJANDRO | [test repo](https://github.com/aguiu/lab5-soa/tree/test)
-682531 | JUAN CIRIACO, ÁLVARO
+682531 | JUAN CIRIACO, ÁLVARO | [Test Repo](https://github.com/aJuanCiri/lab5-soa/tree/test)
 544393 | LAHOZ EGEA, CRISTINA | [test repo](https://github.com/cristinalahoz/lab5-soa/tree/test) | |
 622612 | MARTIN SEGURA, SERGIO  
 681061 | MARTÍNEZ MENÉNDEZ, ALBERTO | [test repo](https://github.com/Belberus/lab5-soa/tree/test) 
