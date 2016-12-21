@@ -31,5 +31,5 @@ hs_err_pid*
 /.idea/
 /bin/
 .classpath
-.settings
+.settings/
 .project
