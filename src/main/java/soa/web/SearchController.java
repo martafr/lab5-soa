@@ -1,5 +1,7 @@
 package soa.web;
 
+import java.util.HashMap;
+
 import org.apache.camel.ProducerTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -23,6 +25,20 @@ public class SearchController {
     @RequestMapping(value="/search")
     @ResponseBody
     public Object search(@RequestParam("q") String q) {
-        return producerTemplate.requestBodyAndHeader("direct:search", "", "CamelTwitterKeywords", q);
+    	
+    	HashMap<String, Object> header = new HashMap<String,Object>();	  	
+    	
+    	if(q.contains("max:")){
+    		
+    		String [] query = q.split("max:");
+
+    		header.put("CamelTwitterKeywords", query[0]);
+    		header.put("CamelTwitterCount", query[1]);
+    		
+    	} else {
+    		header.put("CamelTwitterKeywords", q);
+    	}    	
+    	
+        return producerTemplate.requestBodyAndHeaders("direct:search", "", header);
     }
 }
